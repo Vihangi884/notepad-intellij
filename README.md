@@ -1,11 +1,11 @@
-# 📝 Simple Notepad (Java Swing)
+#  Simple Notepad (Java Swing)
 
 This project is a **mini Notepad application** built using **Java Swing**.  
 It demonstrates the use of GUI components (`JFrame`, `JTextArea`, `JMenuBar`, `JFileChooser`) and basic file handling (open/save).
 
 ---
 
-## 🚀 Features
+##  Features
 - Editable text area with scrollbars
 - File Menu:
   - **Open** → Load a text file into the editor
@@ -14,18 +14,18 @@ It demonstrates the use of GUI components (`JFrame`, `JTextArea`, `JMenuBar`, `J
 
 ---
 
-## ⚙️ Technical Requirements
+##  Technical Requirements
 - **Java Version**: Java SE 8 or later
 - Works on **Windows / Linux / macOS**
 - No database is required for this project (file handling is used instead)
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Download / Clone the Repository
 ```bash
-git clone https://github.com/Vihangi884/SimpleNotepad.git
+git clone https://github.com/Vihangi884/notepad-intellij.git
 cd SimpleNotepad/src
 
 2. Compile the Source Code
